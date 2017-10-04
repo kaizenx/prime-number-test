@@ -1,4 +1,4 @@
-num = 123
+num = 144
 
 # take input from the user
 # num = int(input("Enter a number: "))
